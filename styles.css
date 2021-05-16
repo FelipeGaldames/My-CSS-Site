@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.chile img{
+  position: relative;
+  top: 15px;
+  left: 0px;
+}
+
+
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.perfil {
+  border-radius: 50%;
+}
+.inds {
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top:50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
